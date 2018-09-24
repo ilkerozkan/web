@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Dr. Ilker Ali OZKAN</title>
+    <link>http://www.ilkeraliozkan.com.tr/en/tags/</link>
+    <description>Recent content in Tags on Dr. Ilker Ali OZKAN</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0300</lastBuildDate>
+    
+	<atom:link href="http://www.ilkeraliozkan.com.tr/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Academic</title>
+      <link>http://www.ilkeraliozkan.com.tr/en/tags/academic/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0300</pubDate>
+      
+      <guid>http://www.ilkeraliozkan.com.tr/en/tags/academic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Artificial neural network</title>
+      <link>http://www.ilkeraliozkan.com.tr/en/tags/artificial-neural-network/</link>
+      <pubDate>Wed, 01 Sep 2010 00:00:00 +0300</pubDate>
+      
+      <guid>http://www.ilkeraliozkan.com.tr/en/tags/artificial-neural-network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Control</title>
+      <link>http://www.ilkeraliozkan.com.tr/en/tags/control/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0300</pubDate>
+      
+      <guid>http://www.ilkeraliozkan.com.tr/en/tags/control/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Demo</title>
+      <link>http://www.ilkeraliozkan.com.tr/en/tags/demo/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0300</pubDate>
+      
+      <guid>http://www.ilkeraliozkan.com.tr/en/tags/demo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FPGA</title>
+      <link>http://www.ilkeraliozkan.com.tr/en/tags/fpga/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0300</pubDate>
+      
+      <guid>http://www.ilkeraliozkan.com.tr/en/tags/fpga/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fuzzy</title>
+      <link>http://www.ilkeraliozkan.com.tr/en/tags/fuzzy/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0300</pubDate>
+      
+      <guid>http://www.ilkeraliozkan.com.tr/en/tags/fuzzy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prognosis of prostate cancer</title>
+      <link>http://www.ilkeraliozkan.com.tr/en/tags/prognosis-of-prostate-cancer/</link>
+      <pubDate>Wed, 01 Sep 2010 00:00:00 +0300</pubDate>
+      
+      <guid>http://www.ilkeraliozkan.com.tr/en/tags/prognosis-of-prostate-cancer/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

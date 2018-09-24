@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    
+    <url>
+    
+      <loc>http://www.ilkeraliozkan.com.tr/tutorial/example/</loc>
+      <lastmod>2018-09-09T00:00:00+03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://www.ilkeraliozkan.com.tr/tutorial/</loc>
+      <lastmod>2018-09-09T00:00:00+03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="http://www.ilkeraliozkan.com.tr/publication/fpga-control/" hreflang="tr"/>
+      <xhtml:link rel="alternate" href="http://www.ilkeraliozkan.com.tr/en/publication/fpga-control/" hreflang="en"/>
+    
+      <loc>http://www.ilkeraliozkan.com.tr/publication/fpga-control/</loc>
+      <lastmod>2017-09-01T00:00:00+03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="http://www.ilkeraliozkan.com.tr/post/" hreflang="tr"/>
+      <xhtml:link rel="alternate" href="http://www.ilkeraliozkan.com.tr/en/post/" hreflang="en"/>
+    
+      <loc>http://www.ilkeraliozkan.com.tr/post/</loc>
+      <lastmod>2017-01-01T00:00:00+03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="http://www.ilkeraliozkan.com.tr/publication/" hreflang="tr"/>
+      <xhtml:link rel="alternate" href="http://www.ilkeraliozkan.com.tr/en/publication/" hreflang="en"/>
+    
+      <loc>http://www.ilkeraliozkan.com.tr/publication/</loc>
+      <lastmod>2017-01-01T00:00:00+03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://www.ilkeraliozkan.com.tr/talk/</loc>
+      <lastmod>2017-01-01T00:00:00+03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="http://www.ilkeraliozkan.com.tr/project/fpga/" hreflang="tr"/>
+      <xhtml:link rel="alternate" href="http://www.ilkeraliozkan.com.tr/en/project/fpga/" hreflang="en"/>
+    
+      <loc>http://www.ilkeraliozkan.com.tr/project/fpga/</loc>
+      <lastmod>2016-04-27T00:00:00+03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="http://www.ilkeraliozkan.com.tr/project/fuzzy/" hreflang="tr"/>
+      <xhtml:link rel="alternate" href="http://www.ilkeraliozkan.com.tr/en/project/fuzzy/" hreflang="en"/>
+    
+      <loc>http://www.ilkeraliozkan.com.tr/project/fuzzy/</loc>
+      <lastmod>2016-04-27T00:00:00+03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="http://www.ilkeraliozkan.com.tr/post/getting-started/" hreflang="tr"/>
+      <xhtml:link rel="alternate" href="http://www.ilkeraliozkan.com.tr/en/post/getting-started/" hreflang="en"/>
+    
+      <loc>http://www.ilkeraliozkan.com.tr/post/getting-started/</loc>
+      <lastmod>2018-01-13T00:00:00+03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="http://www.ilkeraliozkan.com.tr/publication/prostat/" hreflang="tr"/>
+      <xhtml:link rel="alternate" href="http://www.ilkeraliozkan.com.tr/en/publication/prostat/" hreflang="en"/>
+    
+      <loc>http://www.ilkeraliozkan.com.tr/publication/prostat/</loc>
+      <lastmod>2010-09-01T00:00:00+03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="http://www.ilkeraliozkan.com.tr/publication_types/2/" hreflang="tr"/>
+      <xhtml:link rel="alternate" href="http://www.ilkeraliozkan.com.tr/en/publication_types/2/" hreflang="en"/>
+    
+      <loc>http://www.ilkeraliozkan.com.tr/publication_types/2/</loc>
+      <lastmod>2017-09-01T00:00:00+03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="http://www.ilkeraliozkan.com.tr/tags/academic/" hreflang="tr"/>
+      <xhtml:link rel="alternate" href="http://www.ilkeraliozkan.com.tr/en/tags/academic/" hreflang="en"/>
+    
+      <loc>http://www.ilkeraliozkan.com.tr/tags/academic/</loc>
+      <lastmod>2018-01-13T00:00:00+03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="http://www.ilkeraliozkan.com.tr/tags/artificial-neural-network/" hreflang="tr"/>
+      <xhtml:link rel="alternate" href="http://www.ilkeraliozkan.com.tr/en/tags/artificial-neural-network/" hreflang="en"/>
+    
+      <loc>http://www.ilkeraliozkan.com.tr/tags/artificial-neural-network/</loc>
+      <lastmod>2010-09-01T00:00:00+03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="http://www.ilkeraliozkan.com.tr/categories/" hreflang="tr"/>
+      <xhtml:link rel="alternate" href="http://www.ilkeraliozkan.com.tr/en/categories/" hreflang="en"/>
+    
+      <loc>http://www.ilkeraliozkan.com.tr/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="http://www.ilkeraliozkan.com.tr/tags/control/" hreflang="tr"/>
+      <xhtml:link rel="alternate" href="http://www.ilkeraliozkan.com.tr/en/tags/control/" hreflang="en"/>
+    
+      <loc>http://www.ilkeraliozkan.com.tr/tags/control/</loc>
+      <lastmod>2017-09-01T00:00:00+03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="http://www.ilkeraliozkan.com.tr/tags/demo/" hreflang="tr"/>
+      <xhtml:link rel="alternate" href="http://www.ilkeraliozkan.com.tr/en/tags/demo/" hreflang="en"/>
+    
+      <loc>http://www.ilkeraliozkan.com.tr/tags/demo/</loc>
+      <lastmod>2016-04-27T00:00:00+03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="http://www.ilkeraliozkan.com.tr/" hreflang="tr"/>
+      <xhtml:link rel="alternate" href="http://www.ilkeraliozkan.com.tr/en/" hreflang="en"/>
+    
+      <loc>http://www.ilkeraliozkan.com.tr/</loc>
+      <lastmod>2017-10-15T00:00:00+03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="http://www.ilkeraliozkan.com.tr/tags/fpga/" hreflang="tr"/>
+      <xhtml:link rel="alternate" href="http://www.ilkeraliozkan.com.tr/en/tags/fpga/" hreflang="en"/>
+    
+      <loc>http://www.ilkeraliozkan.com.tr/tags/fpga/</loc>
+      <lastmod>2017-09-01T00:00:00+03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="http://www.ilkeraliozkan.com.tr/tags/fuzzy/" hreflang="tr"/>
+      <xhtml:link rel="alternate" href="http://www.ilkeraliozkan.com.tr/en/tags/fuzzy/" hreflang="en"/>
+    
+      <loc>http://www.ilkeraliozkan.com.tr/tags/fuzzy/</loc>
+      <lastmod>2017-09-01T00:00:00+03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="http://www.ilkeraliozkan.com.tr/tags/prognosis-of-prostate-cancer/" hreflang="tr"/>
+      <xhtml:link rel="alternate" href="http://www.ilkeraliozkan.com.tr/en/tags/prognosis-of-prostate-cancer/" hreflang="en"/>
+    
+      <loc>http://www.ilkeraliozkan.com.tr/tags/prognosis-of-prostate-cancer/</loc>
+      <lastmod>2010-09-01T00:00:00+03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="http://www.ilkeraliozkan.com.tr/project/" hreflang="tr"/>
+      <xhtml:link rel="alternate" href="http://www.ilkeraliozkan.com.tr/en/project/" hreflang="en"/>
+    
+      <loc>http://www.ilkeraliozkan.com.tr/project/</loc>
+      <lastmod>2016-04-27T00:00:00+03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="http://www.ilkeraliozkan.com.tr/publication_types/" hreflang="tr"/>
+      <xhtml:link rel="alternate" href="http://www.ilkeraliozkan.com.tr/en/publication_types/" hreflang="en"/>
+    
+      <loc>http://www.ilkeraliozkan.com.tr/publication_types/</loc>
+      <lastmod>2017-09-01T00:00:00+03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="http://www.ilkeraliozkan.com.tr/tags/" hreflang="tr"/>
+      <xhtml:link rel="alternate" href="http://www.ilkeraliozkan.com.tr/en/tags/" hreflang="en"/>
+    
+      <loc>http://www.ilkeraliozkan.com.tr/tags/</loc>
+      <lastmod>2018-01-13T00:00:00+03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+</urlset>

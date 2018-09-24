@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 on Dr. Ilker Ali OZKAN</title>
+    <link>http://www.ilkeraliozkan.com.tr/en/publication_types/2/</link>
+    <description>Recent content in 2 on Dr. Ilker Ali OZKAN</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 01 Sep 2017 00:00:00 +0300</lastBuildDate>
+    
+	<atom:link href="http://www.ilkeraliozkan.com.tr/en/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>FPGA-based self-organizing fuzzy controller for electromagnetic filter</title>
+      <link>http://www.ilkeraliozkan.com.tr/en/publication/fpga-control/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0300</pubDate>
+      
+      <guid>http://www.ilkeraliozkan.com.tr/en/publication/fpga-control/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>Prognosis of prostate cancer by artificial neural networks</title>
+      <link>http://www.ilkeraliozkan.com.tr/en/publication/prostat/</link>
+      <pubDate>Wed, 01 Sep 2010 00:00:00 +0300</pubDate>
+      
+      <guid>http://www.ilkeraliozkan.com.tr/en/publication/prostat/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+  </channel>
+</rss>

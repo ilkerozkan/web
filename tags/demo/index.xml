@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Demo on Dr. İlker Ali ÖZKAN</title>
+    <link>http://www.ilkeraliozkan.com.tr/tags/demo/</link>
+    <description>Recent content in Demo on Dr. İlker Ali ÖZKAN</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>tr-tr</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0300</lastBuildDate>
+    
+	<atom:link href="http://www.ilkeraliozkan.com.tr/tags/demo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fuzzy</title>
+      <link>http://www.ilkeraliozkan.com.tr/project/fuzzy/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0300</pubDate>
+      
+      <guid>http://www.ilkeraliozkan.com.tr/project/fuzzy/</guid>
+      <description>Bulanık mantık, bulanık eseme ya da puslu mantık, 1961 yılında Lütfü Aliasker Zade&amp;rsquo;nin yayınladığı bir makalenin sonucu oluşmuş bir mantık yapısıdır. Bulanık mantığın temeli bulanık küme ve alt kümelere dayanır. Klasik yaklaşımda bir varlık ya kümenin elemanıdır ya da değildir.</description>
+    </item>
+    
+  </channel>
+</rss>
