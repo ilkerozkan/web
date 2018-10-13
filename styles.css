@@ -2,10 +2,6 @@
 
 
   
-
-  
-
-  
 /*************************************************
  *  Hugo Academic: an academic theme for Hugo.
  *  Designed by @GeorgeCushen.
@@ -108,14 +104,14 @@ h4, h5, h6 {
 
 a,
 h3.article-title a:hover {
-  color: #2962ff;
+  color: #0095eb;
   text-decoration: none;
   transition: color 0.6s ease;
 }
 
 a:hover,
 a:focus {
-  color: #2962ff;
+  color: #0095eb;
 }
 
 img,
@@ -297,8 +293,8 @@ small,
 }
 
 .form-control:focus {
-  border-color: #2962ff;
-  box-shadow: 0 0 0 .2rem #768fff;
+  border-color: #0095eb;
+  box-shadow: 0 0 0 .2rem #6ec6ff;
 }
 
 /*************************************************
@@ -511,7 +507,7 @@ a[data-fancybox] img {
 .featurette-icon {
   display: block;
   width: 100%;
-  color: #2962ff;
+  color: #0095eb;
   font-size: 3rem;
   text-align: center;
 }
@@ -650,7 +646,7 @@ ul.share li:hover i {
 }
 
 /*************************************************
- *  Page content style
+ *  Blog Articles
  **************************************************/
 
 article {
@@ -660,45 +656,12 @@ article {
 
 .article-container {
   max-width: 760px;
-  padding: 0 20px 0 20px;
+  padding: 1rem 20px 0 20px;
   margin: 0 auto 0 auto;
 }
 
-.split-header {
-  margin-bottom: 2rem;
-}
-
-.split-header .share-box {
-  float: left;
-}
-
-.page-subtitle {
-  font-size: 1.15rem;
-  color: rgba(0,0,0,.54);
-  margin-bottom: 1rem;
-}
-
-.split-header .page-subtitle {
-  margin-bottom: 1.5rem;
-}
-
-.split-header-content {
-  max-width: 612px;
-  width: 100%;
-  padding: 60px 60px 32px 0;
-  margin-left: auto;
-  -webkit-box-sizing: border-box;
-  box-sizing: border-box;
-}
-
-.split-header-image {
-  position: relative; /* Required for caption positioning */
-  clear: both;
-  max-width: 580px;
-}
-
 .article-header {
-  position: relative; /* Required for caption positioning */
+  position: relative;
   clear: both;
 }
 
@@ -741,16 +704,12 @@ article {
   transition: color 0.6s ease;
 }
 
-.text-muted {
-  color: rgba(0,0,0,0.54) !important; /* Override Bootstrap */
-}
-
 .article-metadata {
   margin-bottom: 15px;
   overflow: hidden;
   font-size: 14px;
   letter-spacing: 0.03em;
-  color: rgba(0,0,0,0.54);
+  color: #888;
 }
 
 /* For article page only, not lists. */
@@ -760,11 +719,11 @@ article .article-metadata {
 }
 
 .article-metadata a {
-  color: rgba(0,0,0,.54);
+  color: #888;
 }
 
 .article-metadata a:hover {
-  color: #2962ff;
+  color: #0095eb;
 }
 
 .middot-divider {
@@ -821,39 +780,6 @@ article .article-metadata {
 }
 
 /*************************************************
- *  Stream
- **************************************************/
-
-.media.stream-item {
-  margin-bottom: 2rem;
-}
-
-.media.stream-item .article-title {
-  font-size: 1.2rem;
-}
-
-.media.stream-item .article-style {
-  margin-top: 2px;
-  font-size: 0.8rem;
-}
-
-.media.stream-item .stream-meta {
-  margin-top: 12px;
-}
-
-.media.stream-item img {
-  max-width: 150px;
-  height: auto;
-  object-fit: cover;
-}
-
-@media screen and (max-width: 768px) {
-  .media.stream-item img {
-    max-width: 80px;
-  }
-}
-
-/*************************************************
  *  Publications
  **************************************************/
 
@@ -886,13 +812,13 @@ article .article-metadata {
 .pub-list-item .pub-authors {
   line-height: normal;
   font-style: normal;
-  font-size: 0.9rem;
-  color: rgba(0,0,0,0.54);
+  font-size: 1rem;
+  color: #3170A5;
 }
 
 .pub-list-item .pub-publication {
-  color: rgba(0,0,0,0.54);
-  font-size: 0.9rem;
+  color: #090;
+  font-size: 1rem;
 }
 
 .pub-list-item .pub-links {
@@ -903,52 +829,6 @@ article .article-metadata {
   display: block;
   position: relative;
   overflow: hidden;
-}
-
-/*************************************************
- * Experience
- **************************************************/
-
-.exp-title {
-  text-transform: none !important;
-}
-
-.exp-company {
-  font-weight: normal !important;
-  text-transform: none !important;
-}
-
-.exp-meta {
-  font-size: 0.8rem;
-}
-
-.experience .card-text,
-.experience .card-text p {
-  color: #000 !important;
-  font-size: 0.75rem !important;
-}
-
-.dark .experience .text-muted {
-  color: rgba(255, 255, 255, 0.8) !important;
-}
-
-.dark .experience .card-text,
-.dark .experience .card-text p {
-  color: rgb(248, 248, 242) !important;
-}
-
-.card .card-text ul {
-  margin-top: -1rem;
-  margin-bottom: 0rem;
-}
-
-.experience .m-2 .border,
-.experience .col.border-right {
-  border-color: #2962ff !important;
-}
-
-.experience .m-2 .border.exp-fill {
-  background-color: #2962ff !important;
 }
 
 /*************************************************
@@ -1074,7 +954,7 @@ article .article-metadata {
 }
 
 .card .card-text p {
-  color: rgba(0,0,0,0.54);
+  color: #999999;
   font-size: 0.75rem;
 }
 
@@ -1171,7 +1051,7 @@ footer p {
 
 .site-footer,
 footer a#back_to_top i {
-  color: rgba(0,0,0,0.54);
+  color: #899596;
 }
 
 /**************************************************
@@ -1225,13 +1105,13 @@ a.badge:hover {
  **************************************************/
 
 .btn-primary {
-  border-color: #2962ff;
-  background: #2962ff;
+  border-color: #0095eb;
+  background: #0095eb;
 }
 
 .btn-outline-primary {
-  border-color: #2962ff;
-  color: #2962ff;
+  border-color: #0095eb;
+  color: #0095eb;
 }
 
 .btn-primary:hover,
@@ -1239,7 +1119,7 @@ a.badge:hover {
 .btn-primary.active,
 .btn-primary:visited,
 .open > .dropdown-toggle.btn-primary {
-  background: #2962ff;
+  background: #0095eb;
 }
 
 .btn-outline-light:hover,
@@ -1252,14 +1132,14 @@ a.badge:hover {
 .btn-outline-primary:not(:disabled):not(.disabled):active,
 .show > .btn-outline-primary.dropdown-toggle {
   color: #fff;
-  background-color: #2962ff;
-  border-color: #2962ff;
+  background-color: #0095eb;
+  border-color: #0095eb;
 }
 
 .btn-outline-primary:hover {
   color: #fff;
-  background-color: #2962ff;
-  border-color: #2962ff;
+  background-color: #0095eb;
+  border-color: #0095eb;
 }
 
 /*************************************************
@@ -1282,18 +1162,18 @@ a.badge:hover {
 
 .btn-toolbar .btn.btn-primary:hover,
 .btn-toolbar .btn.btn-primary:focus {
-  background-color: #768fff !important;
+  background-color: #0069c0 !important;
 }
 
 .btn-toolbar .btn.btn-primary:active,
 .btn-toolbar .btn.btn-primary.active {
-  background-color: #0039cb !important;
+  background-color: #6ec6ff !important;
 }
 
 .btn-primary:not(:disabled):not(.disabled).active:focus,
 .btn-primary:not(:disabled):not(.disabled):active:focus,
 .show > .btn-primary.dropdown-toggle:focus {
-  box-shadow: 0 0 0 .2rem #768fff;
+  box-shadow: 0 0 0 .2rem #0069c0;
 }
 
 /*************************************************
@@ -1343,14 +1223,14 @@ nav#navbar-main li.nav-item {
 }
 
 .navbar-light .navbar-nav>.nav-item>.nav-link:hover {
-  color: #2962ff;
+  color: #0095eb;
   background-color: transparent;
 }
 
 .navbar-light .navbar-nav>li.nav-item>a.active,
 .navbar-light .navbar-nav>li.nav-item>a.active:focus,
 .navbar-light .navbar-nav>li.nav-item>a.active:hover {
-  color: #2962ff;
+  color: #0095eb;
   font-weight: 700;
   background-color: transparent !important; /* Override Bootstrap. */
 }
@@ -1387,7 +1267,7 @@ nav#navbar-main li.nav-item {
 
 .dropdown-menu>li>a:focus,
 .dropdown-menu>li>a:hover {
-  color: #2962ff;
+  color: #0095eb;
   text-decoration: none;
   background-color: #fff;
 }
@@ -1397,7 +1277,7 @@ nav#navbar-main li.nav-item {
 .dropdown-menu > .active:hover {
   color: #fff;
   text-decoration: none;
-  background-color: #2962ff;
+  background-color: #0095eb;
   outline: 0;
 }
 
@@ -1488,7 +1368,7 @@ nav#navbar-main li.nav-item {
   .navbar-light .navbar-nav .open .dropdown-menu >.nav-item> .active,
   .navbar-light .navbar-nav .open .dropdown-menu >.nav-item> .active:focus,
   .navbar-light .navbar-nav .open .dropdown-menu >.nav-item> .active:hover {
-    color: #2962ff;
+    color: #0095eb;
     background-color: transparent;
   }
 
@@ -1652,8 +1532,8 @@ div.alert a {
 }
 
 .docs-search .form-control:focus {
-  border-color: #2962ff;
-  box-shadow: 0 0 0 3px #768fff;
+  border-color: #0095eb;
+  box-shadow: 0 0 0 3px #6ec6ff;
 }
 
 /* Docs sidebar. */
@@ -1704,7 +1584,7 @@ div.alert a {
 .docs-sidebar .nav>li>a {
   display: block;
   padding: .25rem 1.5rem;
-  font-size: 0.8rem;
+  font-size: 90%;
   color: rgba(0, 0, 0, .65);
 }
 
@@ -1718,7 +1598,7 @@ div.alert a {
 .docs-sidebar .nav>.active:hover>a,
 .docs-sidebar .nav>.active>a {
   font-weight: bold;
-  color: #2962ff;
+  color: #0095eb;
   background-color: transparent;
 }
 
@@ -1727,7 +1607,7 @@ div.alert a {
 .docs-toggle {
   line-height: 1;
   font-size: 1.2rem;
-  color: #2962ff;
+  color: #0095eb;
   background-color: transparent;
 }
 
@@ -1844,7 +1724,7 @@ ul.toc-top {
 
 #TableOfContents li a:hover,
 .toc-top li a:hover {
-  color: #2962ff;
+  color: #0095eb;
   text-decoration: none;
 }
 
@@ -1852,12 +1732,12 @@ ul.toc-top {
 
 .anchorjs-link {
   font-weight: 400;
-  color: #0039cb;
+  color: #0069c0;
   transition: color .16s linear;
 }
 
 .anchorjs-link:hover {
-  color: #2962ff;
+  color: #0095eb;
   text-decoration: none;
 }
 
@@ -1876,8 +1756,8 @@ body.dark,
 
 .dark .form-control:focus {
   background-color: rgb(68, 71, 90);
-  border-color: #2962ff;
-  box-shadow: 0 0 0 .2rem #0039cb;
+  border-color: #0095eb;
+  box-shadow: 0 0 0 .2rem #0069c0;
 }
 
 .dark h1,
@@ -1909,7 +1789,7 @@ body.dark,
 }
 
 .dark ul.share li a {
-  background-color: #2962ff;
+  background-color: #0095eb;
 }
 
 .dark table table {
@@ -1958,11 +1838,12 @@ body.dark,
 }
 
 .dark .card {
-  background: #343a40;
+  background: rgb(10, 12, 24);
+  box-shadow: 0 2px 4px 0 rgba(255, 255, 255, 0.2);
 }
 
 .dark .card h4 a {
-  color: #2962ff;
+  color: #0095eb;
   border-bottom: solid 1px transparent;
 }
 

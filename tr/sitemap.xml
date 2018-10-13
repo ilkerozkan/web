@@ -140,6 +140,18 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="http://www.ilkeraliozkan.com.tr/tags/artificial-intelligence/" hreflang="tr"/>
+      <xhtml:link rel="alternate" href="http://www.ilkeraliozkan.com.tr/en/tags/artificial-intelligence/" hreflang="en"/>
+    
+      <loc>http://www.ilkeraliozkan.com.tr/tags/artificial-intelligence/</loc>
+      <lastmod>2018-10-01T00:00:00+03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="http://www.ilkeraliozkan.com.tr/tags/artificial-neural-network/" hreflang="tr"/>
       <xhtml:link rel="alternate" href="http://www.ilkeraliozkan.com.tr/en/tags/artificial-neural-network/" hreflang="en"/>
     
@@ -264,18 +276,6 @@
     
       <loc>http://www.ilkeraliozkan.com.tr/tags/</loc>
       <lastmod>2018-01-13T00:00:00+03:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="http://www.ilkeraliozkan.com.tr/tags/artificial-intelligence/" hreflang="tr"/>
-      <xhtml:link rel="alternate" href="http://www.ilkeraliozkan.com.tr/en/tags/artificial-intelligence/" hreflang="en"/>
-    
-      <loc>http://www.ilkeraliozkan.com.tr/tags/artificial-intelligence/</loc>
-      <lastmod>2018-10-01T00:00:00+03:00</lastmod>
       <priority>0</priority>
     </url>
     
