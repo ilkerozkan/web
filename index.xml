@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Diagnosis of urinary tract infection based on artificial intelligence methods</title>
+      <link>http://www.ilkeraliozkan.com.tr/publication/diagnosis-uti/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0300</pubDate>
+      
+      <guid>http://www.ilkeraliozkan.com.tr/publication/diagnosis-uti/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Example Page</title>
       <link>http://www.ilkeraliozkan.com.tr/tutorial/example/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0300</pubDate>
@@ -36,8 +45,7 @@
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0300</pubDate>
       
       <guid>http://www.ilkeraliozkan.com.tr/publication/fpga-control/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -194,8 +202,7 @@ git submodule update --init --recursive
       <pubDate>Wed, 01 Sep 2010 00:00:00 +0300</pubDate>
       
       <guid>http://www.ilkeraliozkan.com.tr/publication/prostat/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
   </channel>

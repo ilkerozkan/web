@@ -13,12 +13,21 @@
     
     
     <item>
+      <title>Diagnosis of urinary tract infection based on artificial intelligence methods</title>
+      <link>http://www.ilkeraliozkan.com.tr/publication/diagnosis-uti/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0300</pubDate>
+      
+      <guid>http://www.ilkeraliozkan.com.tr/publication/diagnosis-uti/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>FPGA-based self-organizing fuzzy controller for electromagnetic filter</title>
       <link>http://www.ilkeraliozkan.com.tr/publication/fpga-control/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0300</pubDate>
       
       <guid>http://www.ilkeraliozkan.com.tr/publication/fpga-control/</guid>
-      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+      <description></description>
     </item>
     
     <item>
@@ -27,7 +36,7 @@
       <pubDate>Wed, 01 Sep 2010 00:00:00 +0300</pubDate>
       
       <guid>http://www.ilkeraliozkan.com.tr/publication/prostat/</guid>
-      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+      <description></description>
     </item>
     
   </channel>
