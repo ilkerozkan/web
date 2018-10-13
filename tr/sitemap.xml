@@ -4,6 +4,17 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="http://www.ilkeraliozkan.com.tr/publication/diagnosis-uti/" hreflang="tr"/>
+      <xhtml:link rel="alternate" href="http://www.ilkeraliozkan.com.tr/en/publication/diagnosis-uti/" hreflang="en"/>
+    
+      <loc>http://www.ilkeraliozkan.com.tr/publication/diagnosis-uti/</loc>
+      <lastmod>2018-10-01T00:00:00+03:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>http://www.ilkeraliozkan.com.tr/tutorial/example/</loc>
       <lastmod>2018-09-09T00:00:00+03:00</lastmod>
     </url>
@@ -14,17 +25,6 @@
     
       <loc>http://www.ilkeraliozkan.com.tr/tutorial/</loc>
       <lastmod>2018-09-09T00:00:00+03:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="http://www.ilkeraliozkan.com.tr/publication/diagnosis-uti/" hreflang="tr"/>
-      <xhtml:link rel="alternate" href="http://www.ilkeraliozkan.com.tr/en/publication/diagnosis-uti/" hreflang="en"/>
-    
-      <loc>http://www.ilkeraliozkan.com.tr/publication/diagnosis-uti/</loc>
-      <lastmod>2017-09-01T00:00:00+03:00</lastmod>
     </url>
     
   
@@ -120,7 +120,7 @@
       <xhtml:link rel="alternate" href="http://www.ilkeraliozkan.com.tr/en/publication_types/2/" hreflang="en"/>
     
       <loc>http://www.ilkeraliozkan.com.tr/publication_types/2/</loc>
-      <lastmod>2017-09-01T00:00:00+03:00</lastmod>
+      <lastmod>2018-10-01T00:00:00+03:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -251,7 +251,7 @@
       <xhtml:link rel="alternate" href="http://www.ilkeraliozkan.com.tr/en/publication_types/" hreflang="en"/>
     
       <loc>http://www.ilkeraliozkan.com.tr/publication_types/</loc>
-      <lastmod>2017-09-01T00:00:00+03:00</lastmod>
+      <lastmod>2018-10-01T00:00:00+03:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -275,7 +275,7 @@
       <xhtml:link rel="alternate" href="http://www.ilkeraliozkan.com.tr/en/tags/artificial-intelligence/" hreflang="en"/>
     
       <loc>http://www.ilkeraliozkan.com.tr/tags/artificial-intelligence/</loc>
-      <lastmod>2017-09-01T00:00:00+03:00</lastmod>
+      <lastmod>2018-10-01T00:00:00+03:00</lastmod>
       <priority>0</priority>
     </url>
     
