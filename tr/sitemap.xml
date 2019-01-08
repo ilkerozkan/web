@@ -94,16 +94,8 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="http://www.ilkeraliozkan.com.tr/post/getting-started/" hreflang="tr"/>
-      <xhtml:link rel="alternate" href="http://www.ilkeraliozkan.com.tr/en/post/getting-started/" hreflang="en"/>
-    
-      <loc>http://www.ilkeraliozkan.com.tr/post/getting-started/</loc>
-      <lastmod>2018-01-13T00:00:00+03:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
+      <xhtml:link rel="alternate" href="http://www.ilkeraliozkan.com.tr/post/my_publications/" hreflang="tr"/>
+      <xhtml:link rel="alternate" href="http://www.ilkeraliozkan.com.tr/en/post/my_publications/" hreflang="en"/>
     
       <loc>http://www.ilkeraliozkan.com.tr/post/my_publications/</loc>
       <lastmod>2018-01-13T00:00:00+03:00</lastmod>
@@ -129,18 +121,6 @@
     
       <loc>http://www.ilkeraliozkan.com.tr/publication_types/2/</loc>
       <lastmod>2018-10-01T00:00:00+03:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="http://www.ilkeraliozkan.com.tr/tags/academic/" hreflang="tr"/>
-      <xhtml:link rel="alternate" href="http://www.ilkeraliozkan.com.tr/en/tags/academic/" hreflang="en"/>
-    
-      <loc>http://www.ilkeraliozkan.com.tr/tags/academic/</loc>
-      <lastmod>2018-01-13T00:00:00+03:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -283,6 +263,18 @@
       <xhtml:link rel="alternate" href="http://www.ilkeraliozkan.com.tr/en/tags/" hreflang="en"/>
     
       <loc>http://www.ilkeraliozkan.com.tr/tags/</loc>
+      <lastmod>2018-10-01T00:00:00+03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="http://www.ilkeraliozkan.com.tr/tags/yay%C4%B1nlar/" hreflang="tr"/>
+      <xhtml:link rel="alternate" href="http://www.ilkeraliozkan.com.tr/en/tags/yay%C4%B1nlar/" hreflang="en"/>
+    
+      <loc>http://www.ilkeraliozkan.com.tr/tags/yay%C4%B1nlar/</loc>
       <lastmod>2018-01-13T00:00:00+03:00</lastmod>
       <priority>0</priority>
     </url>

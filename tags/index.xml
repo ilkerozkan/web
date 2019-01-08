@@ -7,19 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>tr-tr</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0300</lastBuildDate>
+    <lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0300</lastBuildDate>
     
 	<atom:link href="http://www.ilkeraliozkan.com.tr/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Academic</title>
-      <link>http://www.ilkeraliozkan.com.tr/tags/academic/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0300</pubDate>
-      
-      <guid>http://www.ilkeraliozkan.com.tr/tags/academic/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Artificial intelligence</title>
@@ -81,6 +72,15 @@
       <pubDate>Wed, 01 Sep 2010 00:00:00 +0300</pubDate>
       
       <guid>http://www.ilkeraliozkan.com.tr/tags/prognosis-of-prostate-cancer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yayınlar</title>
+      <link>http://www.ilkeraliozkan.com.tr/tags/yay%C4%B1nlar/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0300</pubDate>
+      
+      <guid>http://www.ilkeraliozkan.com.tr/tags/yay%C4%B1nlar/</guid>
       <description></description>
     </item>
     

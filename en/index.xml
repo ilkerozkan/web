@@ -49,130 +49,97 @@
     </item>
     
     <item>
-      <title>Academic: the website designer for Hugo</title>
-      <link>http://www.ilkeraliozkan.com.tr/en/post/getting-started/</link>
+      <title>My Publications</title>
+      <link>http://www.ilkeraliozkan.com.tr/en/post/my_publications/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0300</pubDate>
       
-      <guid>http://www.ilkeraliozkan.com.tr/en/post/getting-started/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;Academic&lt;/strong&gt; is a framework to help you create a beautiful website quickly. Perfect for personal sites, blogs, or business/project sites. &lt;a href=&#34;https://themes.gohugo.io/theme/academic/&#34; target=&#34;_blank&#34;&gt;Check out the latest demo&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes. Then head on over to the &lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;Quick Start guide&lt;/a&gt; or take a look at the &lt;a href=&#34;https://sourcethemes.com/academic/updates/&#34; target=&#34;_blank&#34;&gt;Release Notes&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/gcushen/hugo-academic/&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png&#34; alt=&#34;Screenshot&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Key features:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Easily manage various content including homepage, blog posts, publications, talks, and projects&lt;/li&gt;
-&lt;li&gt;Extensible via &lt;strong&gt;color themes&lt;/strong&gt; and &lt;strong&gt;widgets/plugins&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;Write in &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;Markdown&lt;/a&gt; for easy formatting and code highlighting, with &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34;&gt;LaTeX&lt;/a&gt; for mathematical expressions&lt;/li&gt;
-&lt;li&gt;Social/academic network linking, &lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34;&gt;Google Analytics&lt;/a&gt;, and &lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34;&gt;Disqus&lt;/a&gt; comments&lt;/li&gt;
-&lt;li&gt;Responsive and mobile friendly&lt;/li&gt;
-&lt;li&gt;Simple and refreshing one page design&lt;/li&gt;
-&lt;li&gt;Multilingual and easy to customize&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;color-themes&#34;&gt;Color Themes&lt;/h2&gt;
-
-&lt;p&gt;Academic is available in different color themes and font themes.&lt;/p&gt;
-
-&lt;h2 id=&#34;install&#34;&gt;Install&lt;/h2&gt;
-
-&lt;p&gt;You can choose from one of the following four methods to install:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;one-click install using your web browser (recommended)&lt;/li&gt;
-&lt;li&gt;install on your computer using Git with the Command Prompt/Terminal app&lt;/li&gt;
-&lt;li&gt;install on your computer by downloading the ZIP files&lt;/li&gt;
-&lt;li&gt;install on your computer with RStudio&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;quick-install-using-your-web-browser&#34;&gt;Quick install using your web browser&lt;/h3&gt;
-
+      <guid>http://www.ilkeraliozkan.com.tr/en/post/my_publications/</guid>
+      <description>&lt;p&gt;&lt;p&gt;&lt;strong&gt;A - International  &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;u&gt;A-1:&lt;/u&gt;&lt;/strong&gt;&lt;u&gt;&lt;strong&gt;SCI, SCI-expanded, SSCI, AHCI Impact faktors 1.0&lt;/strong&gt;&lt;/u&gt;&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;a href=&#34;https://app.netlify.com/start/deploy?repository=https://github.com/sourcethemes/academic-kickstart&#34; target=&#34;_blank&#34;&gt;Install Academic with Netlify&lt;/a&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Netlify will provide you with a customizable URL to access your new site&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;On GitHub, go to your newly created &lt;code&gt;academic-kickstart&lt;/code&gt; repository and edit &lt;code&gt;config.toml&lt;/code&gt; to personalize your site. Shortly after saving the file, your site will automatically update&lt;/li&gt;
-&lt;li&gt;Read the &lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;Quick Start Guide&lt;/a&gt; to learn how to add Markdown content. For inspiration, refer to the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/tree/master/exampleSite&#34; target=&#34;_blank&#34;&gt;Markdown content&lt;/a&gt; which powers the &lt;a href=&#34;https://themes.gohugo.io/theme/academic/&#34; target=&#34;_blank&#34;&gt;Demo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ilker Ali OZKAN&lt;/strong&gt;, Murat KOKLU, Ibrahim Unal SERT, (2018), &lt;em&gt;Diagnosis of Urinary Tract Infection based on Artificial Intelligence Methods, &lt;/em&gt;Computer Methods and Programs in Biomedicine, vol:166, 51-59, doi: 10.1016/j.cmpb.2018.10.007&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ilker Ali OZKAN&lt;/strong&gt;, Saadetdin HERDEM, Ismail SARITAS, (2017), &lt;em&gt;FPGA-based self-organizing fuzzy controller for electromagnetic filter, &lt;/em&gt;Neural Computing and Applications (NCAA), 28 (9), pp.2535-2543, doi: 10.1007/s00521-016-2199-6&lt;strong&gt; (Doktora Tezinden)&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ilker Ali OZKAN&lt;/strong&gt;, Ismail SARITAS, Saadetdin HERDEM, (2012), &lt;em&gt;The control of magnetic filters by FPGA based fuzzy controller&lt;/em&gt;. Energy Education Science and Technology Part A-Energy Science and Research, 29(2), pp.1093-1102. &lt;strong&gt;(Doktora Tezinden)&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Ismail SARITAS, &lt;strong&gt;Ilker Ali OZKAN&lt;/strong&gt;, Saadetdin HERDEM, (2010), &lt;em&gt;The effects of fuzzy control of magnetic flux on magnetic filter performance and energy consumption&lt;/em&gt;, Expert Systems with Applications, 37(12), pp. 7542-7551.&lt;/li&gt;
+&lt;li&gt;Ismail SARITAS, &lt;strong&gt;Ilker Ali OZKAN&lt;/strong&gt;, Ibrahim Unal SERT, (2010), &lt;em&gt;Prognosis of prostate cancer by artificial neural networks&lt;/em&gt;, Expert Systems with Applications, 37(9), pp. 6646-6650.&lt;/li&gt;
+&lt;li&gt;Ismail SARITAS, &lt;strong&gt;Ilker Ali OZKAN&lt;/strong&gt;, Novruz ALLAHVERDİ, Mustafa ARGINDOGAN, (2009), &lt;em&gt;Determination of the drug dose by fuzzy expert system in treatment of chronic intestine inflammation,&lt;/em&gt; Journal of Intelligent and Manufacturing, 20(2), pp. 169-176.&lt;/li&gt;
 &lt;/ol&gt;
-
-&lt;h3 id=&#34;install-with-git&#34;&gt;Install with Git&lt;/h3&gt;
-
-&lt;p&gt;Prerequisites:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://git-scm.com/downloads&#34; target=&#34;_blank&#34;&gt;Download and install Git&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://gohugo.io/getting-started/installing/#quick-install&#34; target=&#34;_blank&#34;&gt;Download and install Hugo&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
+&lt;p&gt;&lt;strong&gt;&lt;u&gt;A-2: SCI, SCI-expanded, SSCI, AHCI Impact Facyor 0.1-0.9 &lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;u&gt;A-3: &lt;/u&gt;&lt;/strong&gt;&lt;strong&gt;&lt;u&gt;Other international journals&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/sourcethemes/academic-kickstart#fork-destination-box&#34; target=&#34;_blank&#34;&gt;Fork&lt;/a&gt; the &lt;em&gt;Academic Kickstart&lt;/em&gt; repository and clone your fork with Git:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;git clone https://github.com/sourcethemes/academic-kickstart.git My_Website
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;&lt;em&gt;Note that if you forked Academic Kickstart, the above command should be edited to clone your fork, i.e. replace &lt;code&gt;sourcethemes&lt;/code&gt; with your GitHub username.&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Initialize the theme:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;cd My_Website
-git submodule update --init --recursive
-&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
+&lt;li&gt;Sakir TASDEMIR, &lt;strong&gt;Ilker Ali OZKAN, &lt;/strong&gt;(201?), &lt;em&gt;ANN Approach for Estimation of Cow Weight Depending on Photogrammetric Body Dimensions&lt;/em&gt;, International Journal of Engineering and Geosciences (IJEG), &lt;strong&gt;(Basım Aşamasında)&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ilker Ali OZKAN&lt;/strong&gt;, Murat KOKLU&lt;strong&gt;,&lt;/strong&gt; (2017). &lt;em&gt;Skin Lesion Classification using Machine Learning Algorithms,&lt;/em&gt; International Journal of Intelligent Systems and Applications in Engineering (IJISAE), Vol.5, No.4, pp.285-289, ISSN:2147-6799, DOI:10.18201/ijisae.2017534420.&lt;/li&gt;
+&lt;li&gt;Mucahid Mustafa SARITAS, Murat KOKLU, &lt;strong&gt;Ilker Ali OZKAN&lt;/strong&gt;, (2017). &lt;em&gt;A Novel Embedded System on Cold Box Design for The Cold Chain.&lt;/em&gt; International Journal of Applied Mathematics, Electronics and Computers (IJAMEC), Vol.5, No.4, pp.67-70, ISSN:2147-8228, DOI: 18100/ijamec.2017436077.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ilker Ali OZKAN&lt;/strong&gt;, Mustafa ALTIN, (2016), &lt;em&gt;Estimating of Compressive Strength of Concrete with Artificial Neural Network According to Concrete Mixture Ratio and Age&lt;/em&gt;, International Journal of Intelligent Systems and Applications in Engineering (IJISAE), 4(3), pp. 76-79. doi: 10.18201/ijisae.263977.&lt;/li&gt;
+&lt;li&gt;Esra KAYA , Ismail SARITAS, &lt;strong&gt;Ilker Ali OZKAN&lt;/strong&gt;, (2016), &lt;em&gt;Separation of Wheat Seeds from Junk in a Dynamic System Using Morphological Properties&lt;/em&gt;, International Journal of Intelligent Systems and Applications in Engineering, 4 (Special Issue-1), 180-184. doi: 10.18201/ijisae.270632.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ilker Ali OZKAN&lt;/strong&gt;, Murat CINIVIZ, Feyyaz CANDAN, (2015), &lt;em&gt;Estimating Engine Performance and Emission Values Using ANFIS&lt;/em&gt;, International Journal of Automotive Engineering and Technologies (IJAET), 4(1), pp. 63-67.&lt;/li&gt;
+&lt;li&gt;Ismail SARITAS, &lt;strong&gt;Ilker Ali OZKAN&lt;/strong&gt;, Tahir SAG, (2015), &lt;em&gt;An Application of Image Processing for Conservation of Natural Life&lt;/em&gt;, International Journal of Applied Mathematics, Electronics and Computers (IJAMEC), 3(1), pp. 57-59.&lt;/li&gt;
+&lt;li&gt;Ismail SARITAS, &lt;strong&gt;Ilker Ali OZKAN&lt;/strong&gt;, Suleyman SULAK, Novruz ALLAHVERDİ, (2011), &lt;em&gt;The role of the ınternet in computer-aided education&lt;/em&gt;, Communication &amp;amp; Cognition, 44(2), pp.57-68.&lt;/li&gt;
 &lt;/ol&gt;
-
-&lt;h3 id=&#34;install-with-zip&#34;&gt;Install with ZIP&lt;/h3&gt;
-
+&lt;p&gt;&lt;strong&gt;B- International  Proceedings&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;u&gt;B-1: Full Paper - Oral Presentation - English&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/sourcethemes/academic-kickstart/archive/master.zip&#34; target=&#34;_blank&#34;&gt;Download&lt;/a&gt; and extract &lt;em&gt;Academic Kickstart&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/gcushen/hugo-academic/archive/master.zip&#34; target=&#34;_blank&#34;&gt;Download&lt;/a&gt; and extract the &lt;em&gt;Academic theme&lt;/em&gt; to the &lt;code&gt;themes/academic/&lt;/code&gt; folder from the above step&lt;/li&gt;
+&lt;li&gt;Ilkay CINAR, &lt;strong&gt;Ilker Ali OZKAN&lt;/strong&gt;, Murat KOKLU, (2018), &lt;em&gt;Fuzzy Logic Based Controller Design for Control of Ventilation Systems,&lt;/em&gt; International Conference on Engineering Technologies (ICENTE&amp;rsquo;18), pp.194-199, 26-28 October, 2018, ISBN: 978-605-68537-3-9, Konya, TURKEY.&lt;/li&gt;
+&lt;li&gt;Vildan EVREN, Abdulkadir SADAY, &lt;strong&gt;Ilker Ali OZKAN&lt;/strong&gt;, (2018), &lt;em&gt;A Fuzzy Control System Design According to the Development Periods of the Cultivated Mushroom,&lt;/em&gt; International Conference on Engineering Technologies (ICENTE&amp;rsquo;18), pp.190-193, 26-28 October, 2018, ISBN: 978-605-68537-3-9, Konya, TURKEY.&lt;/li&gt;
+&lt;li&gt;Mustafa SARITAS, &lt;strong&gt;Ilker Ali OZKAN&lt;/strong&gt;, (2018), &lt;em&gt;Recognition of Sign Language using Convolutional Neural Networks,&lt;/em&gt; International Conference on Engineering Technologies (ICENTE&amp;rsquo;18), pp.173-176, 26-28 October, 2018, ISBN: 978-605-68537-3-9, Konya, TURKEY.&lt;/li&gt;
+&lt;li&gt;Burak Tezcan, &lt;strong&gt;Ilker Ali OZKAN&lt;/strong&gt;, Sakir TASDEMIR, (2018), &lt;em&gt;Epileptic Seizure Classification using Support Vector Machines,&lt;/em&gt; International Conference on Engineering Technologies (ICENTE&amp;rsquo;18), pp.163-165, 26-28 October, 2018, ISBN: 978-605-68537-3-9, Konya, TURKEY.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ilker Ali OZKAN&lt;/strong&gt;, Burak TEZCAN, Murat KOKLU, (2018), &lt;em&gt;Artificial Neural Network Approach for Heart Disease Prediction,&lt;/em&gt; 3rd International Conference on Engineering Technology and Applied Sciences (ICETAS), pp.342-346, July 17-21, 2018, ISBN:978-605-4444-13-7, Skopje, MACEDONIA.&lt;/li&gt;
+&lt;li&gt;Nigmet KOKLU, &lt;strong&gt;Ilker Ali OZKAN&lt;/strong&gt;, Mustafa ALTIN, (2018), &lt;em&gt;Analysing Results of Concrete Slump Test by Using Artificial Intelligence Techniques,&lt;/em&gt; 3rd International Conference on Engineering Technology and Applied Sciences (ICETAS), pp.400-405, July 17-21, 2018, ISBN:978-605-4444-13-7, Skopje, MACEDONIA.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ilker Ali OZKAN&lt;/strong&gt;, Nigmet KOKLU, Ismail SARITAS, (2018), &lt;em&gt;Fuzzy Controller Design for Inverted Pendulum Problem,&lt;/em&gt; 7th International Conference on Advanced Technologies (ICAT&amp;rsquo;18), pp.289-291, 28 April - 1 May, 2018, ISBN: 978-605-68537-1-5, Antalya, TURKEY.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ilker Ali OZKAN&lt;/strong&gt;, Abdulkadir SADAY, (2018), &lt;em&gt;Design and Implementation of FIR Filter based on FPGA,&lt;/em&gt; 7th International Conference on Advanced Technologies (ICAT&amp;rsquo;18), pp.1093-1096, 28 April - 1 May, 2018, ISBN: 978-605-68537-1-5, Antalya, TURKEY.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ilker Ali OZKAN&lt;/strong&gt;, Murat KOKLU, (2018), &lt;em&gt;A Study on Thyroid Disease Diagnosis Using Artificial Neural Network with Firefly Training Algorithm,&lt;/em&gt; 7th International Conference on Advanced Technologies (ICAT&amp;rsquo;18), pp.1097-1100, 28 April - 1 May, 2018, ISBN: 978-605-68537-1-5, Antalya, TURKEY.&lt;/li&gt;
+&lt;li&gt;Arif AYDIN, Murat KOKLU, &lt;strong&gt;Ilker Ali OZKAN&lt;/strong&gt;, (2017), &lt;em&gt;A Comparative Study of Modeling of Chronic Kidney Disease Using Data Mining,&lt;/em&gt; International Conference on Advanced Technology &amp;amp; Sciences (ICAT&amp;rsquo;Riga), pp.229-235, September 12-15, 2017, ISBN:978-605-67535-3-4, Riga, LATVIA.&lt;/li&gt;
+&lt;li&gt;Ibrahim Unal SERT, &lt;strong&gt;Ilker Ali OZKAN&lt;/strong&gt;, Murat KOKLU&lt;strong&gt;,&lt;/strong&gt; (2017). &lt;em&gt;Predicting Seminal Quality Using Artificial Neural Network, &lt;/em&gt; International Conference on Advanced Technology &amp;amp; Sciences (ICAT&amp;rsquo;Riga), pp.262-265, September 12-15, 2017, ISBN:978-605-67535-3-4, Riga, LATVIA.&lt;/li&gt;
+&lt;li&gt;Esra KAYA, Ismail SARITAS, &lt;strong&gt;Ilker Ali OZKAN&lt;/strong&gt;, (2017), &lt;em&gt;Supervised Segmentation of Retinal Vessel Structures Using ANN,&lt;/em&gt; International Conference on Advanced Technology &amp;amp; Sciences (ICAT&amp;rsquo;Riga), pp.257-261, September 12-15, 2017, ISBN:978-605-67535-3-4, Riga, LATVIA.&lt;/li&gt;
+&lt;li&gt;Fatih TARAKCI, &lt;strong&gt;Ilker Ali OZKAN&lt;/strong&gt;, Sema YILMAZ (2017), &lt;em&gt;Web Based Fuzzy Expert System Design for Detection of Rheumatoid Arthritis Disease Severity,&lt;/em&gt; 5th International Conference on Advanced Technologies (ICAT&amp;rsquo;17), pp.819-823, May 9-12, 2017, ISBN: 978-605-67535-1-0, Istanbul, TURKEY.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ilker Ali OZKAN&lt;/strong&gt;, (2016), &lt;em&gt;Prediction of Chronic Kidney Disease Using an Artificial Neural Network&lt;/em&gt;, 2nd International Conference on Engineering and Natural Sciences (ICENS 2016), pp.1443-1447, 24-28 May 2016 Sarajevo, 2016, ISBN : 978-605-83575-1-8 .&lt;/li&gt;
+&lt;li&gt;Esra KAYA, Ismail SARITAS, &lt;strong&gt;Ilker Ali OZKAN&lt;/strong&gt;, (2016), &lt;em&gt;Detection of Impurities in Wheat and Classification of Durum Wheat Vitreousness in a Dynamic System,&lt;/em&gt; International Conference on Advanced Technology &amp;amp; Sciences (ICAT&amp;rsquo;Rome), pp.114-120, November 23-25, 2016, ISBN:978-605-67535-3-4, Rome, ITALY.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ilker Ali OZKAN&lt;/strong&gt;, (2016), &lt;em&gt;Diagnosis of Breast Cancer by ANFIS Trained with PSO method,&lt;/em&gt; International Conference on Advanced Technology &amp;amp; Sciences (ICAT&amp;rsquo;Rome), pp.136-138, November 23-25, 2016, ISBN:978-605-67535-3-4, Rome, ITALY.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ilker Ali OZKAN&lt;/strong&gt;, (2016), &lt;em&gt;Speed Control of DC Motor using Type 2 Fuzzy Controller,&lt;/em&gt; International Conference on Advanced Technology &amp;amp; Sciences (ICAT&amp;rsquo;16), pp.489-491, September 01-03, 2016, ISBN: 978-605-9119-74-0, Konya, TURKEY.&lt;/li&gt;
+&lt;li&gt;Esra KAYA, Ismail SARITAS, &lt;strong&gt;Ilker Ali OZKAN&lt;/strong&gt;, (2016), &lt;em&gt;Separation of Wheat Seeds from Junk in a Dynamic&lt;/em&gt;&lt;em&gt;System Using Morphological Properties ,&lt;/em&gt; International Conference on Advanced Technology &amp;amp; Sciences (ICAT&amp;rsquo;16), pp.679-683, September 01-03, 2016, ISBN: 978-605-9119-74-0, Konya, TURKEY.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ilker Ali OZKAN&lt;/strong&gt;, Mustafa ALTIN, (2015), &lt;em&gt;Estimating of Compressive Strength of Concrete with Artificial Neural Network According to Concrete Mixture Ratio and Age&lt;/em&gt;, International Conference on Advanced Technology &amp;amp; Sciences (ICAT&amp;rsquo;15), 494-497, August 4-7, 2015, ISBN:978-605-9119-26-9, Antalya, TURKEY.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ilker Ali OZKAN&lt;/strong&gt;, Ismail SARITAS, Ibrahim Unal SERT (2015), &lt;em&gt;A Type-2 Fuzzy Expert System Application for The Determination of Prostate Cancer Risk&lt;/em&gt;, International Conference on Advanced Technology &amp;amp; Sciences (ICAT&amp;rsquo;15), 498-501, August 4-7, 2015, ISBN:978-605-9119-26-9, Antalya, TURKEY.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ilker Ali OZKAN&lt;/strong&gt;, Murat CINIVIZ, Feyyaz CANDAN, (2014), &lt;em&gt;Estimating Engine Performance and Emission Values Using ANFIS&lt;/em&gt;, International Conference on Advanced Technology &amp;amp; Sciences (ICAT&amp;rsquo;14), pp.909-912, August 12-15, 2014, ISBN:978-605-4769-90-2, Antalya, TURKEY.&lt;/li&gt;
+&lt;li&gt;Ismail SARITAS, &lt;strong&gt;Ilker Ali OZKAN&lt;/strong&gt;, Tahir SAG, (2014), &lt;em&gt;An Application of Image Processing for Conservation of Natural Life&lt;/em&gt;, International Conference on Advanced Technology &amp;amp; Sciences (ICAT&amp;rsquo;14), pp.582-584, August 12-15, 2014, ISBN:978-605-4769-90-2, Antalya, TURKEY.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ilker Ali OZKAN&lt;/strong&gt;, Ismail SARITAS, Saadetdin HERDEM, (2013), &lt;em&gt;The Control of Electromagnetic Filter by Using FPGA Based PI Type Fuzzy Controller&lt;/em&gt;, 2nd International Conference on Information Technology and Computer Networks (ITCN &amp;lsquo;13), pp. 81-85, October 8-10, 2013, ISBN: 978-960-474-336-0, Antalya, TURKEY. &lt;strong&gt;(Doktora Tezinden)&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Vildan ONEN, Gulay TEZEL, Esra YEL, Pinar BEYAZY&amp;Uuml;Z, &lt;strong&gt;Ilker Ali OZKAN&lt;/strong&gt;, (2013), &lt;em&gt;Modeling of the Removal of Turbidity from Marble Suspensions via ANN (Artificial Neural Network)&lt;/em&gt;, 1st European Conference of Mining Engineering (MINENG&amp;rsquo;13), pp. 301-308, October 8-10, 2013, ISBN: 978-960-474-337-7, Antalya, TURKEY.&lt;/li&gt;
+&lt;li&gt;Esra YEL, Vildan ONEN, Gulay TEZEL, &lt;strong&gt;Ilker Ali OZKAN&lt;/strong&gt;, (2013), &lt;em&gt;Artificial Neural Network Model for [Cu(CN)3]2- Adsorption by Raw and Activated Sepiolite&lt;/em&gt;, 6th International Conference on Environmental and Geological Science and Engineering (EG &amp;lsquo;13), pp. 62-69, October 8-10, 2013, ISBN: 978-960-474-338-4, Antalya, TURKEY.&lt;/li&gt;
+&lt;li&gt;Ismail SARITAS, &lt;strong&gt;Ilker Ali OZKAN&lt;/strong&gt;, Saadetdin HERDEM, (2012), &lt;em&gt;An Artificial Neural Network Model for Magnetic Filter Performance&lt;/em&gt;, 1 st Taibah University International Conference on Computing and Information Technology (ICCIT2012), Vol 1., pp. 50-55, March 12-14, 2012, Al-Madinah Al-Munawwarah, SAUDI ARABIA.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ilker Ali OZKAN&lt;/strong&gt;, Ismail SARITAS, Suleyman YALDIZ, (2010), &lt;em&gt;A Comparative Study of ANN and FES for Predicting of Cutting Forces and Tool Tip Temperature in Turning&lt;/em&gt;, CompSysTech&amp;rsquo;10 International Conference on Computer Systems and Technologies CompSysyTech&amp;rsquo;10,vol 471, pp.177-185, June 17-18,2010, Sofia, BULGARIA. &lt;strong&gt;(Y&amp;uuml;ksek Lisans Tezinden)&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Ismail SARITAS, &lt;strong&gt;Ilker Ali OZKAN, &lt;/strong&gt;Mustafa ARGINDOGAN; Novruz ALLAHVERDI, (2006), &lt;em&gt;Determination of The Dose of Drug by Fuzzy Expert System in Treatment of Chronic Intestine Inflammation&lt;/em&gt;, 5th International Sysposium On Intelligent Manufacturing Systems IMS&amp;rsquo;2006, pp. 497-505, May 29-31, 2006, Sakarya, TURKEY.&lt;/li&gt;
+&lt;li&gt;Novruz ALLAHVERDI, Ismail SARITAS, &lt;strong&gt;Ilker Ali OZKAN&lt;/strong&gt;, Mustafa ARGINDOGAN, (2006), &lt;em&gt;An Example of Determination of Medicine Dose in the Treatment by Fuzzy Method&lt;/em&gt;, International Conference on Computer Systems and Technologies - CompSysyTech&amp;rsquo;06, pp. III.A.1.1-III.A.1.10, June 15-16, 2006, University of Veliko Tarnovo, BULGARIA.&lt;/li&gt;
+&lt;li&gt;Ismail SARITAS, &lt;strong&gt;Ilker Ali OZKAN&lt;/strong&gt;, Suleyman SULAK, Novruz ALLAHVERDI, (2006), &lt;em&gt;The Role of the Internet in Computer-Aided Education&lt;/em&gt;, International Conference on Computer Systems and Technologies - CompSysyTech&amp;rsquo;06, pp. IV.18.1 - IV.18.5, June 15-16, 2006, University of Veliko Tarnovo, BULGARIA.&lt;/li&gt;
 &lt;/ol&gt;
-
-&lt;h3 id=&#34;install-with-rstudio&#34;&gt;Install with RStudio&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-rstudio&#34; target=&#34;_blank&#34;&gt;View the guide to installing Academic with RStudio&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;quick-start&#34;&gt;Quick start&lt;/h2&gt;
-
+&lt;p&gt;&lt;strong&gt;&lt;u&gt;B-1.1: &lt;/u&gt;&lt;/strong&gt;&lt;strong&gt;&lt;u&gt;Abstract - Oral Presentation- English&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;p&gt;If you installed on your computer, view your new website by running the following command:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;hugo server
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Now visit &lt;a href=&#34;http://localhost:1313&#34; target=&#34;_blank&#34;&gt;localhost:1313&lt;/a&gt; and your new Academic powered website will appear. Otherwise, if using Netlify, they will provide you with your URL.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Read the &lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;Quick Start Guide&lt;/a&gt; to learn how to add Markdown content, customize your site, and deploy it. For inspiration, refer to the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/tree/master/exampleSite&#34; target=&#34;_blank&#34;&gt;Markdown content&lt;/a&gt; which powers the &lt;a href=&#34;https://themes.gohugo.io/theme/academic/&#34; target=&#34;_blank&#34;&gt;Demo&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Build your site by running the &lt;code&gt;hugo&lt;/code&gt; command. Then &lt;a href=&#34;https://georgecushen.com/create-your-website-with-hugo/&#34; target=&#34;_blank&#34;&gt;host it for free using Github Pages&lt;/a&gt; or Netlify (refer to the first installation method). Alternatively, copy the generated &lt;code&gt;public/&lt;/code&gt; directory (by FTP, Rsync, etc.) to your production web server (such as a university&amp;rsquo;s hosting service).&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;Abdulkadir SADAY, Hulusi KARACA,&lt;strong&gt; Ilker Ali OZKAN&lt;/strong&gt;, Ismail SARITAS, (2018), &lt;em&gt;FPGA based 3 Phase Synchronous Motor Control,&lt;/em&gt; 7th International Conference on Advanced Technologies (ICAT&amp;rsquo;18), pp.7, 8 April - 1 May, 2018, ISBN: 978-605-68537-0-8, Antalya, TURKEY.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ilker Ali OZKAN&lt;/strong&gt;, Murat KOKLU, (2017). &lt;em&gt;Prediction of Melanoma Disease Using Artificial Neural Network,&lt;/em&gt; International Conference on Engineering Technologies (ICENTE&amp;rsquo;17), p.28, December 07-09, 2017, ISBN: 978-605-67535-5-8, Konya, TURKEY.&lt;/li&gt;
+&lt;li&gt;Mehmet Akif SAHMAN,&lt;strong&gt; Ilker Ali OZKAN&lt;/strong&gt;, (2017). &lt;em&gt;Training Artificial Neural Network by Using Differential Search Algorithm,&lt;/em&gt; International Conference on Engineering Technologies (ICENTE&amp;rsquo;17), p.18, December 07-09, 2017, ISBN: 978-605-67535-5-8, Konya, TURKEY.&lt;/li&gt;
+&lt;li&gt;Abdulkadir SADAY, &lt;strong&gt;Ilker Ali OZKAN&lt;/strong&gt;, (2017), &lt;em&gt;Implementation of 16 Bit Arithmetic Logic Unit on FPGA,&lt;/em&gt; 5th International Conference on Advanced Technologies (ICAT&amp;rsquo;17), pp.43, May 9-12, 2017, ISBN: 978-605-67535-0-3, Istanbul, TURKEY.&lt;/li&gt;
+&lt;li&gt;Ilkay TASLI, &lt;strong&gt;Ilker Ali OZKAN&lt;/strong&gt;, (2017), &lt;em&gt;Design and Development of A Biotelemetry System for Monitoring Bedridden Patients,&lt;/em&gt; 5th International Conference on Advanced Technologies (ICAT&amp;rsquo;17), pp.219, May 9-12, 2017, ISBN: 978-605-67535-0-3, Istanbul, TURKEY.&lt;/li&gt;
 &lt;/ol&gt;
-
-&lt;h2 id=&#34;updating&#34;&gt;Updating&lt;/h2&gt;
-
-&lt;p&gt;Feel free to &lt;em&gt;star&lt;/em&gt; the project on &lt;a href=&#34;https://github.com/gcushen/hugo-academic/&#34; target=&#34;_blank&#34;&gt;Github&lt;/a&gt; to help keep track of updates and check out the &lt;a href=&#34;https://sourcethemes.com/academic/updates&#34; target=&#34;_blank&#34;&gt;release notes&lt;/a&gt; prior to updating your site.&lt;/p&gt;
-
-&lt;p&gt;Before updating the framework, it is recommended to make a backup of your entire website directory (or at least your &lt;code&gt;themes/academic&lt;/code&gt; directory) and record your current version number.&lt;/p&gt;
-
-&lt;p&gt;By default, Academic is installed as a Git submodule which can be updated by running the following command:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;git submodule update --remote --merge
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/update/&#34; target=&#34;_blank&#34;&gt;Check out the update guide&lt;/a&gt; for full instructions and alternative methods.&lt;/p&gt;
-
-&lt;h2 id=&#34;feedback-contributing&#34;&gt;Feedback &amp;amp; Contributing&lt;/h2&gt;
-
-&lt;p&gt;Please use the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/issues&#34; target=&#34;_blank&#34;&gt;issue tracker&lt;/a&gt; to let me know about any bugs or feature requests, or alternatively make a pull request.&lt;/p&gt;
-
-&lt;p&gt;For support, head over to the &lt;a href=&#34;http://discuss.gohugo.io&#34; target=&#34;_blank&#34;&gt;Hugo discussion forum&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
-
-&lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md&#34; target=&#34;_blank&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;u&gt;B-2: Poster presentation&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Ismail SARITAS, &lt;strong&gt;Ilker Ali OZKAN&lt;/strong&gt;, Saadetdin HERDEM, (2007), &lt;em&gt;Design of a Fuzzy Expert System for Magnetic Filter Performance According to Magnetic Field&lt;/em&gt;, 5. International Conference on Electrical and Electronics Engineering &amp;ndash; ELECO 2007, pp. 401-405, December 5-9, 2007, Bursa, TURKEY.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;D- National &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;u&gt;D-1: Research Papers&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Ilkay CINAR, Murat KOKLU, &lt;strong&gt;Ilker Ali OZKAN&lt;/strong&gt;, (2018), &lt;em&gt;Investigation of Occupational Health and Safety Awareness of Workers inMetal Industry (Konya Province Example), &lt;/em&gt;Sosyal Bilimler Dergisi, Volume 8, Number:16, pp.350-364 (&lt;em&gt;doi.org/10.31834/kilissbd.457309&lt;/em&gt;).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ilker Ali OZKAN&lt;/strong&gt;, Ismail SARITAS, Saadetdin HERDEM, (2011), &lt;em&gt;Manyetik Filtreler i&amp;ccedil;in FPGA Tabanlı Bulanık Kontrol&amp;ouml;r Tasarımı&lt;/em&gt;, Journal of Technical-Online, Volume 10, Number:3, pp.271-284. &lt;strong&gt;(Doktora Tezinden)&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ilker Ali OZKAN&lt;/strong&gt;, Ismail SARITAS, Saadetdin HERDEM. (2011), &lt;em&gt;The Control of A DC Motor by Fuzzy Logic Controller&lt;/em&gt;, e-Journal of New World Sciences Academy, Engineering Sciences, 1A0136, 6, (2), 533-541.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;E- National conference paper&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;u&gt;E-1: Tam Metinli Bildiriler (S&amp;ouml;zl&amp;uuml; sunulan ve tam metin yayınlananlar) &lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Ilker Ali OZKAN&lt;/strong&gt;, Saadetdin HERDEM, (2012), &lt;em&gt;FPGA Tabanlı Kendini Ayarlayabilen Bulanık Kontrol&amp;ouml;r ile Manyetik Filtrenin Kontrol&amp;uuml;&lt;/em&gt;, Otomatik Kontrol T&amp;uuml;rk Milli Komitesi 2012 Ulusal Toplantısı-Tok 2012, Niğde, 2, 740-744. &lt;strong&gt;(Doktora Tezinden)&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ilker Ali OZKAN&lt;/strong&gt;, Ismail SARITAS, Saadetdin HERDEM, (2010), &lt;em&gt;Bir Dc Motorun Bulanık Mantık Denetleyici İle Kontrol&amp;uuml;&lt;/em&gt;, Bilimde Modern Y&amp;ouml;ntemler Sempozyumu-BMYS 2010, Cilt 1, Sayfa 265-274, 14&amp;ndash;16 Ekim 2010, Diyarbakır.&lt;/li&gt;
+&lt;li&gt;Ismail SARITAS, &lt;strong&gt;Ilker Ali OZKAN&lt;/strong&gt;, Saadetdin HERDEM, (2009), &lt;em&gt;The Magnetic Filter and Systems Controled by Artificial Neural Network&lt;/em&gt;, 5. Uluslararası İleri Teknolojiler Sempozyumu (IATS&amp;rsquo;09), 13-15 Mayıs 2009, Karab&amp;uuml;k, T&amp;uuml;rkiye.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ilker Ali OZKAN,&lt;/strong&gt; Ismail SARITAS, Suleyman YALDIZ, (2009), &lt;em&gt;Tornalama İşleminde Kesme Kuvvetlerinin ve Takım Ucu Sıcaklığının Yapay Sinir Ağı ile Tahmin Edilmesi&lt;/em&gt;, 5. International Andavnced Technologies Symposium (IATS&amp;rsquo;09), 13-15 Mayıs 2009, Karab&amp;uuml;k, T&amp;uuml;rkiye. &lt;strong&gt;(Y&amp;uuml;ksek Lisans Tezinden)&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ilker Ali OZKAN&lt;/strong&gt;, Ismail SARITAS, Saadetdin HERDEM, (2007), &lt;em&gt;Manyetik Filtreleme İşleminin ANFIS ile Modellenmesi&lt;/em&gt;, Elektrik, Elektronik, Bilgisayar, Biyomedikal M&amp;uuml;hendisliği 12. Ulusal Kongre ve Sergisi &amp;ndash; EMO 2007, pp.415-418, 2007, Turkey.&lt;/li&gt;
+&lt;li&gt;Ismail SARITAS, &lt;strong&gt;Ilker Ali OZKAN&lt;/strong&gt;, Saadetdin HERDEM, (2007), &lt;em&gt;Manyetik Filtrenin Bulanık Mantık Y&amp;ouml;ntemiyle Kontrol&amp;uuml;,&lt;/em&gt; Elektrik, Elektronik, Bilgisayar, Biyomedikal M&amp;uuml;hendisliği 12. Ulusal Kongre ve Sergisi &amp;ndash; EMO 2007, pp.609-612, 2007, Turkey.&lt;/li&gt;
+&lt;/ol&gt;&lt;/p&gt;
 </description>
     </item>
     

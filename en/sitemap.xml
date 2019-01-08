@@ -48,10 +48,10 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="http://www.ilkeraliozkan.com.tr/en/post/getting-started/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="http://www.ilkeraliozkan.com.tr/post/getting-started/" hreflang="tr"/>
+      <xhtml:link rel="alternate" href="http://www.ilkeraliozkan.com.tr/en/post/my_publications/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="http://www.ilkeraliozkan.com.tr/post/my_publications/" hreflang="tr"/>
     
-      <loc>http://www.ilkeraliozkan.com.tr/en/post/getting-started/</loc>
+      <loc>http://www.ilkeraliozkan.com.tr/en/post/my_publications/</loc>
       <lastmod>2018-01-13T00:00:00+03:00</lastmod>
     </url>
     
@@ -75,18 +75,6 @@
     
       <loc>http://www.ilkeraliozkan.com.tr/en/publication_types/2/</loc>
       <lastmod>2018-10-01T00:00:00+03:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="http://www.ilkeraliozkan.com.tr/en/tags/academic/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="http://www.ilkeraliozkan.com.tr/tags/academic/" hreflang="tr"/>
-    
-      <loc>http://www.ilkeraliozkan.com.tr/en/tags/academic/</loc>
-      <lastmod>2018-01-13T00:00:00+03:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -253,6 +241,18 @@
       <xhtml:link rel="alternate" href="http://www.ilkeraliozkan.com.tr/tags/" hreflang="tr"/>
     
       <loc>http://www.ilkeraliozkan.com.tr/en/tags/</loc>
+      <lastmod>2018-10-01T00:00:00+03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="http://www.ilkeraliozkan.com.tr/en/tags/yay%C4%B1nlar/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="http://www.ilkeraliozkan.com.tr/tags/yay%C4%B1nlar/" hreflang="tr"/>
+    
+      <loc>http://www.ilkeraliozkan.com.tr/en/tags/yay%C4%B1nlar/</loc>
       <lastmod>2018-01-13T00:00:00+03:00</lastmod>
       <priority>0</priority>
     </url>
