@@ -24,5 +24,19 @@ Key features:
  Easily manage various content including homepage, blog posts, publications, talks, and projects Extensible via color themes and widgets/plugins Write in Markdown for easy formatting and code highlighting, with LaTeX for mathematical expressions Social/academic network linking, Google Analytics, and Disqus comments Responsive and mobile friendly Simple and refreshing one page design Multilingual and easy to customize  Color Themes Academic is available in different color themes and font themes.</description>
     </item>
     
+    <item>
+      <title>My Publications</title>
+      <link>http://www.ilkeraliozkan.com.tr/post/my_publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0300</pubDate>
+      
+      <guid>http://www.ilkeraliozkan.com.tr/post/my_publications/</guid>
+      <description>A -Uluslararası Çalışmalar 
+&amp;nbsp;
+A-1:SCI, SCI-expanded, SSCI, AHCI’de yer alan ve Impact faktörü 1.0 ve üzeri olan uluslar arası dergilerde yayımlanan araştırma makaleleri
+&amp;nbsp;
+1.&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Ilker Ali OZKAN, Murat KOKLU, Ibrahim Unal SERT, (2018), Diagnosisof Urinary Tract Infection based on Artificial Intelligence Methods, ComputerMethods and Programs in Biomedicine, vol:166, pp. 51-59, doi: 10.1016/j.cmpb.2018.10.007
+2.&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Ilker Ali OZKAN, Saadetdin HERDEM, Ismail SARITAS, (2017), FPGA-based self-organizing fuzzy controller for electromagnetic filter, NeuralComputing and Applications (NCAA),28 (9), pp.</description>
+    </item>
+    
   </channel>
 </rss>
